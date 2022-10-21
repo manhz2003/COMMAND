@@ -1,0 +1,10 @@
+Phím tắt sử dụng intellij
+ctrl + alt + l	 -> format code
+alt + f12		 -> mở tab terminal
+alt + 4 		 -> mở tab console
+ctrl + y		 -> xóa nhanh 1 dòng
+
+cout  = System.out.println();
+psvm  = Tạo nhanh hàm main
+fori  = tạo nhanh vòng lặp for
+ifn   = tạo nhanh câu lệnh if	
