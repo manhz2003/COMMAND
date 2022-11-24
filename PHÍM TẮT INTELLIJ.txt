@@ -3,6 +3,7 @@ ctrl + alt + l	 -> format code
 alt + f12		 -> mở tab terminal
 alt + 4 		 -> mở tab console
 ctrl + y		 -> xóa nhanh 1 dòng
+ctrl + alt + t	 -> thêm nhanh try catch
 
 cout  = System.out.println();
 psvm  = Tạo nhanh hàm main

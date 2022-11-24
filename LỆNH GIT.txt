@@ -13,7 +13,7 @@ Cách đẩy code từ máy lên git (tạo mới)
 cách kéo code từ sever github về máy
 1. chọn và tạo vị trí cần clone project về máy
 2. gõ lệnh: git clone <đường link git> (clone 1 project từ github về máy)
-3. gõ lệnh: git bull (để kéo những thay đổi đoạn code của người khác trên git về máy)
+3. gõ lệnh: git pull origin <tên nhánh> (để kéo những thay đổi đoạn code của người khác trên git về máy)
 4. thao tác đẩy code lên git từ máy khác lên tương tự như cách trên
 
 <!-- có thể đẩy code lên từ nhiều nhánh, và có 1 nhánh chính, sau khi đc kiểm duyệt code của
